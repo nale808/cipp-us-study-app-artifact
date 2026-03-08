@@ -1,8 +1,8 @@
 # CIPP/US Study App
 
-An AI-powered study tool for the IAPP CIPP/US (Certified Information Privacy Professional) exam. Covers all five exam domains with three study modes: AI explanations with visual charts, multiple-choice quizzes, and flip-style flashcards. All content is generated on demand by Claude Sonnet.
+An AI-powered study tool for the IAPP CIPP/US (Certified Information Privacy Professional) exam. Covers all five exam domains with three study modes: AI explanations with visual charts, multiple-choice quizzes, and flip-style flashcards. 
 
-Built as a single React component. No backend required beyond the Anthropic API.
+Built as a single React component. 
 
 ---
 
