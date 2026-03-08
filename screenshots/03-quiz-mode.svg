@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" font-family="system-ui, sans-serif">
+  <rect width="900" height="500" fill="#f1f5f9"/>
+  <rect width="900" height="52" fill="#ffffff"/>
+  <rect x="0" y="51" width="900" height="1" fill="#e2e8f0"/>
+  <circle cx="26" cy="26" r="5" fill="#22c55e"/>
+  <text x="40" y="32" font-size="14" font-weight="800" fill="#1e293b" letter-spacing="1">CIPP/US PREP</text>
+
+  <!-- Header -->
+  <text x="24" y="80" font-size="9" fill="#22c55e" letter-spacing="2">DOMAIN 1 · QUIZ MODE</text>
+  <text x="24" y="104" font-size="20" font-weight="800" fill="#1e293b">Structure of U.S. Privacy Law</text>
+
+  <!-- Progress dots -->
+  <rect x="24"  y="116" width="164" height="4" rx="2" fill="#4fc9a4"/>
+  <rect x="192" y="116" width="164" height="4" rx="2" fill="#f74f8e"/>
+  <rect x="360" y="116" width="164" height="4" rx="2" fill="#22c55e"/>
+  <rect x="528" y="116" width="164" height="4" rx="2" fill="#e2e8f0"/>
+  <rect x="696" y="116" width="164" height="4" rx="2" fill="#e2e8f0"/>
+  <text x="24" y="136" font-size="11" fill="#94a3b8">Question 3 of 5</text>
+  <text x="860" y="136" font-size="11" fill="#22c55e" text-anchor="end">2 correct  1 missed</text>
+
+  <!-- Question card -->
+  <rect x="24" y="146" width="852" height="70" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="44" y="172" font-size="14" fill="#1e293b">The U.S. approach to privacy regulation is best described as:</text>
+  <text x="44" y="196" font-size="14" fill="#94a3b8">Select the answer that best reflects the CIPP/US exam framework.</text>
+
+  <!-- Answers -->
+  <rect x="24" y="226" width="852" height="44" rx="8" fill="#f0fdf4" stroke="#4fc9a4"/>
+  <text x="44" y="253" font-size="13" fill="#4fc9a4" font-weight="500">A)  A comprehensive federal omnibus framework covering all sectors</text>
+
+  <rect x="24" y="276" width="852" height="44" rx="8" fill="#fff1f2" stroke="#f74f8e"/>
+  <text x="44" y="303" font-size="13" fill="#f74f8e" font-weight="500">B)  A sectoral patchwork of industry-specific laws enforced by the FTC and agencies</text>
+
+  <rect x="24" y="326" width="852" height="44" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="44" y="353" font-size="13" fill="#94a3b8">C)  A single constitutional privacy right enforced by federal courts</text>
+
+  <rect x="24" y="376" width="852" height="44" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="44" y="403" font-size="13" fill="#94a3b8">D)  An opt-in consent model modeled after the EU GDPR</text>
+
+  <!-- Explanation -->
+  <rect x="24" y="430" width="852" height="46" rx="8" fill="#f0fdf4" stroke="#dcfce7"/>
+  <text x="44" y="449" font-size="9" fill="#22c55e" letter-spacing="2">EXPLANATION</text>
+  <text x="44" y="467" font-size="11" fill="#64748b">The U.S. uses a sectoral model -- separate laws for health (HIPAA), finance (GLBA), credit (FCRA) -- unlike the EU GDPR omnibus approach. The FTC fills gaps via Section 5.</text>
+</svg>

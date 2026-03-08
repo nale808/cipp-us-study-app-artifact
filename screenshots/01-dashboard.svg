@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" font-family="system-ui, sans-serif">
+  <!-- BG -->
+  <rect width="900" height="580" fill="#f1f5f9"/>
+
+  <!-- Header -->
+  <rect width="900" height="52" fill="#ffffff"/>
+  <rect x="0" y="51" width="900" height="1" fill="#e2e8f0"/>
+  <circle cx="26" cy="26" r="5" fill="#22c55e"/>
+  <text x="40" y="32" font-size="14" font-weight="800" fill="#1e293b" letter-spacing="1">CIPP/US PREP</text>
+
+  <!-- Page title -->
+  <text x="450" y="90" font-size="24" font-weight="800" fill="#1e293b" text-anchor="middle" letter-spacing="2">CIPP/US STUDY DASHBOARD</text>
+  <text x="450" y="110" font-size="12" fill="#64748b" text-anchor="middle">Five domains · AI explanations · Quizzes · Flashcards</text>
+
+  <!-- Settings box -->
+  <rect x="270" y="124" width="360" height="72" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="290" y="142" font-size="9" fill="#94a3b8" letter-spacing="2">QUICK START SETTINGS</text>
+  <text x="290" y="162" font-size="12" fill="#64748b">Questions per quiz:</text>
+  <rect x="432" y="150" width="28" height="20" rx="6" fill="#dcfce7" stroke="#22c55e"/>
+  <text x="446" y="164" font-size="12" fill="#15803d" text-anchor="middle">3</text>
+  <rect x="464" y="150" width="28" height="20" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="478" y="164" font-size="12" fill="#64748b" text-anchor="middle">5</text>
+  <rect x="496" y="150" width="32" height="20" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="512" y="164" font-size="12" fill="#64748b" text-anchor="middle">10</text>
+  <text x="290" y="184" font-size="12" fill="#64748b">Flashcards per set:</text>
+  <rect x="432" y="172" width="28" height="20" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="446" y="186" font-size="12" fill="#64748b" text-anchor="middle">3</text>
+  <rect x="464" y="172" width="28" height="20" rx="6" fill="#eff6ff" stroke="#4f8ef7"/>
+  <text x="478" y="186" font-size="12" fill="#1d4ed8" text-anchor="middle">5</text>
+  <rect x="496" y="172" width="32" height="20" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="512" y="186" font-size="12" fill="#64748b" text-anchor="middle">10</text>
+
+  <!-- Big buttons -->
+  <rect x="150" y="210" width="256" height="44" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+  <text x="278" y="237" font-size="13" font-weight="700" fill="#15803d" text-anchor="middle">🎲  RANDOM QUIZ -- 3 QUESTIONS</text>
+  <rect x="420" y="210" width="260" height="44" rx="10" fill="#eff6ff" stroke="#4f8ef7" stroke-width="2"/>
+  <text x="550" y="237" font-size="13" font-weight="700" fill="#1d4ed8" text-anchor="middle">🃏  RANDOM FLASHCARDS -- 5</text>
+
+  <!-- Domain 1 -->
+  <rect x="24" y="270" width="852" height="64" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="24" y="270" width="4" height="64" rx="2" fill="#22c55e"/>
+  <text x="44" y="291" font-size="9" fill="#22c55e" letter-spacing="2">DOMAIN 1</text>
+  <text x="44" y="309" font-size="14" font-weight="700" fill="#1e293b">U.S. Privacy Environment</text>
+  <text x="44" y="325" font-size="11" fill="#64748b">0/11 topics studied</text>
+  <!-- Pills -->
+  <rect x="200" y="295" width="126" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="214" y="309" font-size="10" fill="#64748b">📖 Structure of U.S. Privacy</text>
+  <rect x="330" y="295" width="20" height="20" rx="0" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="337" y="309" font-size="10" fill="#475569">⚡</text>
+  <rect x="350" y="295" width="20" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="357" y="309" font-size="10" fill="#4f8ef7">🃏</text>
+  <rect x="384" y="295" width="96" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="394" y="309" font-size="10" fill="#64748b">📖 Role of the FTC</text>
+  <rect x="484" y="295" width="20" height="20" rx="0" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="491" y="309" font-size="10" fill="#475569">⚡</text>
+  <rect x="504" y="295" width="20" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="511" y="309" font-size="10" fill="#4f8ef7">🃏</text>
+
+  <!-- Domain 2 -->
+  <rect x="24" y="344" width="852" height="64" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="24" y="344" width="4" height="64" rx="2" fill="#7c4ff7"/>
+  <text x="44" y="365" font-size="9" fill="#7c4ff7" letter-spacing="2">DOMAIN 2</text>
+  <text x="44" y="383" font-size="14" font-weight="700" fill="#1e293b">Limits on Private-Sector Collection</text>
+  <text x="44" y="399" font-size="11" fill="#64748b">0/16 topics studied</text>
+  <rect x="200" y="369" width="120" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="210" y="383" font-size="10" fill="#64748b">📖 HIPAA: Covered Entities</text>
+  <rect x="324" y="369" width="20" height="20" rx="0" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="331" y="383" font-size="10" fill="#475569">⚡</text>
+  <rect x="344" y="369" width="20" height="20" rx="4" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="351" y="383" font-size="10" fill="#4f8ef7">🃏</text>
+
+  <!-- Domain 3 -->
+  <rect x="24" y="418" width="852" height="64" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="24" y="418" width="4" height="64" rx="2" fill="#f74f8e"/>
+  <text x="44" y="439" font-size="9" fill="#f74f8e" letter-spacing="2">DOMAIN 3</text>
+  <text x="44" y="457" font-size="14" font-weight="700" fill="#1e293b">Government and Court Access</text>
+  <text x="44" y="473" font-size="11" fill="#64748b">0/15 topics studied</text>
+
+  <!-- Domain 4 -->
+  <rect x="24" y="492" width="420" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="24" y="492" width="4" height="60" rx="2" fill="#f7a24f"/>
+  <text x="44" y="513" font-size="9" fill="#f7a24f" letter-spacing="2">DOMAIN 4</text>
+  <text x="44" y="531" font-size="14" font-weight="700" fill="#1e293b">Workplace Privacy</text>
+  <text x="44" y="547" font-size="11" fill="#64748b">0/13 topics studied</text>
+
+  <!-- Domain 5 -->
+  <rect x="456" y="492" width="420" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="456" y="492" width="4" height="60" rx="2" fill="#4fc9a4"/>
+  <text x="476" y="513" font-size="9" fill="#4fc9a4" letter-spacing="2">DOMAIN 5</text>
+  <text x="476" y="531" font-size="14" font-weight="700" fill="#1e293b">State Privacy Law</text>
+  <text x="476" y="547" font-size="11" fill="#64748b">0/14 topics studied</text>
+</svg>

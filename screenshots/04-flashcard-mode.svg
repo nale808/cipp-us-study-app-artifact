@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" font-family="system-ui, sans-serif">
+  <rect width="900" height="440" fill="#f1f5f9"/>
+  <rect width="900" height="52" fill="#ffffff"/>
+  <rect x="0" y="51" width="900" height="1" fill="#e2e8f0"/>
+  <circle cx="26" cy="26" r="5" fill="#22c55e"/>
+  <text x="40" y="32" font-size="14" font-weight="800" fill="#1e293b" letter-spacing="1">CIPP/US PREP</text>
+  <text x="862" y="32" font-size="12" fill="#94a3b8" text-anchor="end">3 / 5</text>
+
+  <!-- Header -->
+  <text x="24" y="80" font-size="9" fill="#f74f8e" letter-spacing="2">DOMAIN 3 · FLASHCARDS</text>
+  <text x="24" y="104" font-size="20" font-weight="800" fill="#1e293b">Fourth Amendment Protections</text>
+
+  <!-- Progress dots -->
+  <rect x="24"  y="116" width="166" height="4" rx="2" fill="#4f8ef7"/>
+  <rect x="194" y="116" width="166" height="4" rx="2" fill="#4f8ef7"/>
+  <rect x="364" y="116" width="166" height="4" rx="2" fill="#93c5fd"/>
+  <rect x="534" y="116" width="166" height="4" rx="2" fill="#e2e8f0"/>
+  <rect x="704" y="116" width="166" height="4" rx="2" fill="#e2e8f0"/>
+
+  <!-- Flipped card (answer side) -->
+  <rect x="24" y="132" width="852" height="200" rx="14" fill="#eff6ff" stroke="#4f8ef7" stroke-width="2"/>
+  <text x="450" y="165" font-size="9" fill="#4f8ef7" text-anchor="middle" letter-spacing="2" font-weight="600">ANSWER -- TAP TO FLIP BACK</text>
+  <text x="450" y="198" font-size="15" fill="#1e293b" text-anchor="middle">The Third-Party Doctrine holds that individuals have no reasonable</text>
+  <text x="450" y="218" font-size="15" fill="#1e293b" text-anchor="middle">expectation of privacy in information voluntarily shared with third</text>
+  <text x="450" y="238" font-size="15" fill="#1e293b" text-anchor="middle">parties. This limits Fourth Amendment protection for bank records</text>
+  <text x="450" y="258" font-size="15" fill="#1e293b" text-anchor="middle">(Miller, 1976) and phone numbers (Smith v. Maryland, 1979).</text>
+  <text x="450" y="296" font-size="11" fill="#94a3b8" text-anchor="middle">Fourth Amendment Protections · Government and Court Access</text>
+
+  <!-- Nav -->
+  <rect x="228" y="350" width="100" height="36" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="278" y="373" font-size="13" fill="#475569" text-anchor="middle">Prev</text>
+  <rect x="340" y="350" width="100" height="36" rx="8" fill="#eff6ff" stroke="#4f8ef7"/>
+  <text x="390" y="373" font-size="13" fill="#1d4ed8" text-anchor="middle">Next</text>
+  <rect x="452" y="350" width="130" height="36" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="517" y="373" font-size="13" fill="#475569" text-anchor="middle">Dashboard</text>
+
+  <!-- Caption note -->
+  <text x="450" y="410" font-size="11" fill="#94a3b8" text-anchor="middle">Tap the card to toggle between question and answer. Navigate with Prev / Next.</text>
+</svg>
